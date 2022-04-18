@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = maximecarrat@gmail.com
+	name = Maxime Carrat
